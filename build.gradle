@@ -11,5 +11,5 @@ dependencies {
     testImplementation 'org.testng:testng:7.7.0' // use the latest stable version
 }
 application {
-    mainClass = 'com.example.Main'
+    mainClass = 'org.example.Main'
 }

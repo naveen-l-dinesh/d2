@@ -13,7 +13,7 @@ public class WebpageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://sauravsarkar-codersarcade.github.io/CA-MVN/");
+        driver.get("https://naveen-l-dinesh.github.io/d2/");
     }
 
     @Test
